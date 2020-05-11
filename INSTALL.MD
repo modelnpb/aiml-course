@@ -1,8 +1,8 @@
 # AIML Course Installation
 
-Install Python 3.6.x - python.org.
+Install Python 3.6.x from python.org.
 
-Install Scikit-Learn: pip install sklearn
+Install Scikit-Learn: ##pip install sklearn
 
 Install Pandas: pip install pandas
 
