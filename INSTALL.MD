@@ -2,7 +2,7 @@
 
 Install Python 3.6.x from python.org.
 
-Install Scikit-Learn: ##pip install sklearn
+Install Scikit-Learn: <bi>pip install sklearn</bi>
 
 Install Pandas: pip install pandas
 
