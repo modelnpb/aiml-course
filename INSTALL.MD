@@ -1,4 +1,4 @@
-Install Python 3.6.x - python.org.
+#1 Install Python 3.6.x - python.org.
 
 Install Scikit-Learn: pip install sklearn
 
